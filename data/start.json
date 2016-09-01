@@ -1,0 +1,62 @@
+[
+	{
+		"title": "下载",
+		"id": "article1",
+		"content": "Bootstrap （当前版本 v3.3.5）提供以下几种方式帮你快速上手，每一种方式针对具有不同技能等级的开发者和不同的使用场景。继续阅读下面的内容，看看哪种方式适合你的需求吧。"
+	},
+	{
+		"title": "包含的内容",
+		"id": "article2",
+		"content": "Bootstrap 提供了两种形式的压缩包，在下载下来的压缩包内可以看到以下目录和文件，这些文件按照类别放到了不同的目录内，并且提供了压缩与未压缩两种版本。"
+	},
+	{
+		"title": "编译 CSS 和 JavaScript 文件",
+		"id": "article3",
+		"content": "Bootstrap 使用 Grunt 作为编译系统，并且对外提供了一些方便的方法用于编译整个框架。下面讲解的就是如何编译源码、运行测试用例等内容。"
+	},
+	{
+		"title": "基本模板",
+		"id": "article4",
+		"content": "使用以下给出的这份超级简单的 HTML 模版，或者修改这些实例。我们强烈建议你对这些实例按照自己的需求进行修改，而不要简单的复制、粘贴。"
+	},
+	{
+		"title": "实例精选",
+		"id": "article5",
+"content": "以下实例全部基于前面所讲的基本模板并配合 Bootstrap众多组件开发而成。我们鼓励你根据自身项目的需要对 Bootstrap 进行定制和修改。"
+	},
+	{
+		"title": "工具",
+		"id": "article6",
+		"content": "Bootlint 是 Bootstrap 官方所支持的 HTML 检测工具。在使用了 Bootstrap 的页面上（没有对 Bootstrap 做修改和扩展的情况下），它能自动检查某些常见的 HTML 错误。纯粹的 Bootstrap 组件需要固定的 DOM 结构。Bootlint 就能检测你的页面上的这些“纯粹”的 Bootstrap 组件是否符合 Bootstrap 的 HTML 结构规则。建议将 Bootlint 加入到你的开发工具中，这样就能帮你在项目开发中避免一些简单的错误影响你的开发进度。"
+	},
+	{
+		"title": "社区",
+		"id": "article7",
+		"content": "Bootstrap 有成熟、强大的社区。如果你希望随时获取 Bootstrap 的最新消息，请关注以下社区资源。中国用户请关注我们的官方微博账号：@Bootstrap中文网。我们定期分享新技术和新资讯。"
+	},
+	{
+		"title": "禁止响应式布局",
+		"id": "article8",
+		"content": "禁止响应式特性的 Bootstrap 模版,从 v2.x 版本升级到 v3.x 版本,你在找从老版本升级到 Bootstrap v3.x 版本的方法吗？请查看我们整理的升级指南吧。"
+	},
+	{
+		"title": "浏览器和设备的支持情况",
+		"id": "article9",
+		"content": "特别注意，我们坚决支持这些浏览器的最新版本。在 Windows 平台，我们支持 Internet Explorer 8-11。请看下面列出的详细信息。"
+	},
+	{
+		"title": "可访问性",
+		"id": "article10",
+		"content": "Bootstrap 遵循统一的 web 标准，另外，通过做一些少量的修改，还可以让使用 辅助设备（AT - ASSISTIVE TECHNOLOGY）上网的人群访问你的站点。"
+	},
+	{
+		"title": "对第三方组件的支持",
+		"id": "article11",
+	"content": "虽然我们并不官方支持任何第三方插件，我们还是提供一些建议，帮你避免可能在你的项目中会出现的问题。"
+	},
+	{
+		"title": "许可证 FAQ",
+		"id": "article12",
+		"content": "必须遵守：Keep the license and copyright notice included in Bootstrap's CSS and JavaScript files when you use them in your works"
+	}
+]

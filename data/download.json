@@ -1,0 +1,23 @@
+[
+	{
+		"title": "Less 文件",
+		"id": "download1",
+		"content": "选择将哪些 Less 文件编译到你自己的定制 Bootstrap 版本中。不确定每个文件的用途吗？请先通读此文档中的全局 CSS 样式和组件章节。"
+	},
+	{
+		"title": "jQuery 插件",
+		"id": "download2",
+		"content": "选择将那些 jQuery 插件包含到你的定制版本中。不确定他们的用途吗？请通读此文档中的 JavaScript 插件章节。生成的两个文件所有选中的插件都将会编译为一份是和阅读的版本 bootstrap.js 和一份压缩版本 bootstrap.min.js。我们建议将压缩版本用于生产环境。所有插件都依赖最新版本的 jQuery，因此，必须首先将 jQuery 引入页面。"
+	},
+	{
+		"title": "Less 变量",
+		"id": "download3",
+		"content": "通过 Less 变量可以自定义颜色、尺寸等，最终将会反映到你所下载的 CSS 样式表文件中。ColorsGray and brand colors for use across Bootstrap."
+	},
+	{
+		"title": "下载",
+		"id": "download4",
+		"content": "庆祝一下！你的定制版 Bootstrap 即将大功告成。只要点击下面的按钮就可以下载了。"
+	}
+	
+]

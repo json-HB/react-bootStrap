@@ -1,0 +1,66 @@
+[
+	{
+		"title": "概览",
+		"id": "js1",
+		"content": "单个还是全部引入,JavaScript 插件可以单个引入（使用 Bootstrap 提供的单个 *.js 文件），或者一次性全部引入（使用 bootstrap.js 或压缩版的 bootstrap.min.js）。"
+	},
+	{
+		"title": "过渡效果 transition.js",
+		"id": "js2",
+		"content": "对于简单的过渡效果，只需将 transition.js 和其它 JS 文件一起引入即可。如果你使用的是编译（或压缩）版的 bootstrap.js 文件，就无需再单独将其引入了。"
+	},
+	{
+		"title": "模态框 modal.js",
+		"id": "js3",
+		"content": "模态框经过了优化，更加灵活，以弹出对话框的形式出现，具有最小和最实用的功能集。千万不要在一个模态框上重叠另一个模态框。要想同时支持多个模态框，需要自己写额外的代码来实现。"
+	},
+	{
+		"title": "Dropdowns dropdown.js",
+		"id": "js4",
+		"content": "Add dropdown menus to nearly anything with this simple plugin, including the navbar, tabs, and pills."
+	},
+	{
+		"title": "滚动监听 scrollspy.js",
+		"id": "js5",
+		"content": "滚动监听插件是用来根据滚动条所处的位置来自动更新导航项的。如下所示，滚动导航条下面的区域并关注导航项的变化。下拉菜单中的条目也会自动高亮显示。"
+	},
+	{
+		"title": "Togglable tabs tab.js",
+		"id": "js6",
+		"content": "Add quick, dynamic tab functionality to transition through panes of local content, even via dropdown menus. Nested tabs are not supported."
+	},
+	{
+		"title": "Tooltips tooltip.js",
+		"id": "js7",
+		"content": "Inspired by the excellent jQuery.tipsy plugin written by Jason Frame; Tooltips are an updated version, which don't rely on images, use CSS3 for animations, and data-attributes for local title storage."
+	},
+	{
+		"title": "弹出框 popover.js",
+		"id": "js8",
+"content": "为任意元素添加一小块浮层，就像 iPad 上一样，用于存放非主要信息。弹出框的标题和内容的长度都是零的话将永远不会被显示出来。"
+	},
+	{
+		"title": "警告信息 alert.js",
+		"id": "js9",
+		"content": "通过此插件可以为警告信息添加点击并消失的功能。当使用 .close 按钮时，它必须是 .alert-dismissible 的第一个子元素，并且在它之前不能有任何文本内容。"
+	},{
+		"title": "按钮 button.js",
+		"id": "js10",
+		"content": "按钮的功能很丰富。通过控制按钮的状态或创建一组按钮并形成一些新的组件，例如工具条。"
+	},
+	{
+		"title": "Collapse collapse.js",
+		"id": "js11",
+		"content": "Flexible plugin that utilizes a handful of classes for easy toggle behavior."
+	},
+	{
+		"title": "Carousel carousel.js",
+		"id": "js12",
+		"content": "A slideshow component for cycling through elements, like a carousel. Nested carousels are not supported."
+	},
+	{
+		"title": "Affix affix.js",
+		"id": "js12",
+		"content": "The affix plugin toggles position: fixed; on and off, emulating the effect found with position: sticky;. The subnavigation on the right is a live demo of the affix plugin."
+	}
+]
